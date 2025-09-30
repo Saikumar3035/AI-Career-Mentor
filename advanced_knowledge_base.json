@@ -1,0 +1,132 @@
+[
+  {
+    "text": "Python programming masterclass covering basics to advanced topics including OOP, decorators, generators, and async programming",
+    "meta": {
+      "category": "Programming",
+      "level": "Beginner-Advanced",
+      "skill": "Python",
+      "duration": "40 hours",
+      "platform": "Coursera"
+    }
+  },
+  {
+    "text": "Java complete developer course with Spring Boot, Hibernate, and microservices architecture patterns",
+    "meta": {
+      "category": "Programming",
+      "level": "Intermediate",
+      "skill": "Java",
+      "duration": "60 hours",
+      "platform": "Udemy"
+    }
+  },
+  {
+    "text": "Modern JavaScript ES6+ course covering promises, async/await, modules, and advanced concepts",
+    "meta": {
+      "category": "Programming",
+      "level": "Intermediate",
+      "skill": "JavaScript",
+      "duration": "25 hours",
+      "platform": "freeCodeCamp"
+    }
+  },
+  {
+    "text": "Machine Learning Specialization by Andrew Ng - comprehensive introduction to supervised and unsupervised learning",
+    "meta": {
+      "category": "Machine Learning",
+      "level": "Beginner",
+      "skill": "Machine Learning",
+      "duration": "55 hours",
+      "platform": "Coursera"
+    }
+  },
+  {
+    "text": "Deep Learning Specialization covering neural networks, CNNs, RNNs, and practical implementation with TensorFlow",
+    "meta": {
+      "category": "Deep Learning",
+      "level": "Advanced",
+      "skill": "TensorFlow",
+      "duration": "90 hours",
+      "platform": "Coursera"
+    }
+  },
+  {
+    "text": "Data Analysis with Pandas and NumPy - complete guide to data manipulation, cleaning, and analysis",
+    "meta": {
+      "category": "Data Science",
+      "level": "Beginner",
+      "skill": "Pandas",
+      "duration": "20 hours",
+      "platform": "DataCamp"
+    }
+  },
+  {
+    "text": "React complete guide including hooks, context, Redux, testing, and performance optimization",
+    "meta": {
+      "category": "Frontend",
+      "level": "Intermediate",
+      "skill": "React",
+      "duration": "45 hours",
+      "platform": "Udemy"
+    }
+  },
+  {
+    "text": "Node.js and Express.js backend development with authentication, APIs, and database integration",
+    "meta": {
+      "category": "Backend",
+      "level": "Intermediate",
+      "skill": "Node.js",
+      "duration": "35 hours",
+      "platform": "Pluralsight"
+    }
+  },
+  {
+    "text": "AWS Solutions Architect certification path covering EC2, S3, RDS, Lambda, and cloud architecture",
+    "meta": {
+      "category": "Cloud",
+      "level": "Intermediate",
+      "skill": "AWS",
+      "duration": "80 hours",
+      "platform": "A Cloud Guru"
+    }
+  },
+  {
+    "text": "Docker and Kubernetes mastery course for containerization and orchestration",
+    "meta": {
+      "category": "DevOps",
+      "level": "Intermediate",
+      "skill": "Docker",
+      "duration": "30 hours",
+      "platform": "Linux Academy"
+    }
+  },
+  {
+    "text": "SQL masterclass covering complex queries, window functions, stored procedures, and database optimization",
+    "meta": {
+      "category": "Database",
+      "level": "Beginner-Advanced",
+      "skill": "SQL",
+      "duration": "25 hours",
+      "platform": "SQLBolt"
+    }
+  },
+  {
+    "text": "Build 12 real-world Python projects including web scrapers, APIs, data analysis, and automation tools",
+    "meta": {
+      "category": "Projects",
+      "level": "Intermediate",
+      "skill": "Python",
+      "duration": "50 hours",
+      "platform": "GitHub"
+    }
+  },
+  {
+    "text": "Kaggle Learn micro-courses on data science competitions and practical machine learning implementation",
+    "meta": {
+      "category": "Practice",
+      "level": "All Levels",
+      "skill": "Data Science",
+      "duration": "Flexible",
+      "platform": "Kaggle"
+    }
+  }
+]

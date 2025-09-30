@@ -1,0 +1,7 @@
+[
+    {"text":"Coursera ML by Andrew Ng - beginner course", "meta":{"title":"ML Course"}},
+    {"text":"Fast.ai Practical Deep Learning - intermediate course", "meta":{"title":"Deep Learning"}},
+    {"text":"Kaggle Titanic dataset - practice classification", "meta":{"title":"Kaggle Titanic"}},
+    {"text":"ReactJS official tutorial - frontend development", "meta":{"title":"React Tutorial"}},
+    {"text":"AWS fundamentals course - cloud basics", "meta":{"title":"AWS Course"}}
+]
